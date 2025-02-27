@@ -27,7 +27,7 @@ Install the dependencies:
 pip install -r requirements.txt
 ```
 
-The following prompt files represent different prompting strategies we provide to large language models.
+The following prompt files represent different prompting strategies we provide to LLMs.
 
 - `src\prompt.py`: DIPMT++ _w/o fuzzy_ .  
 - `src\prompt_DIPMT++.py`: DIPMT++.  
